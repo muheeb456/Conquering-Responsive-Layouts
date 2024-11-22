@@ -30,6 +30,10 @@ Here is the list of challenges, along with links to their respective solution fi
     *Objective:* Create a simple fluid layout using percentages and max-width.
     [Solution](challenge01).
 
+2. #### Challenge 2: Basic Responsive Layout
+    *Objective:* Create a simple fluid layout using percentages and max-width by aligning content in multiple elements using wrapper div's.
+    [Solution](challenge02).
+
 ## Technologies Used
 * HTML5: Semantic structure and markup
 * CSS3: Responsive design and layout techniques
